@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Flags</string>
+    <string name="andorra">Andorra</string>
+    <string name="belgium">Belgium</string>
+    <string name="cameroon">Cameroon</string>
+    <string name="denmak">Denmark</string>
+    <string name="egypt">Egypt</string>
+    <string name="france">France</string>
+    <string name="ghana">Ghana</string>
+    <string name="hong">Hong Kong</string>
+    <string name="israel">Israel</string>
+    <string name="jamaica">Jamaica</string>
+    <string name="kenya">Kenya</string>
+    <string name="flgImg">Country Flag Image</string>
+    <string name="refresh">Refresh Icon</string>
+</resources>
